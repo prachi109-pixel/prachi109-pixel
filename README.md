@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d9488,100:14b8a6&height=220&section=header&text=Prachi&fontSize=50&fontColor=ffffff&animation=twinkling&fontAlignY=35&desc=Fresher%20%7C%20AI%2FML%20%26%20Python%20Developer&descAlignY=55&descSize=18" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d9488,100:14b8a6&height=220&section=header&text=Prachi&fontSize=50&fontColor=ffffff&animation=twinkling&fontAlignY=35&desc=Fresher%20%7C%20AI%2FML%20%2B%20Python%20Developer&descAlignY=55&descSize=18" width="100%"/>
 
 <a href="https://github.com/prachi109-pixel">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=14B8A6&center=true&vCenter=true&width=600&lines=Python+%7C+AI%2FML+%7C+SQL;Building+CalmSense+-+AI+Mental+Health+App;Building+SleepyWhisper+-+Sleep+Disorder+Prediction;Open+to+Work+Opportunities" alt="Typing SVG" />
@@ -36,10 +36,6 @@ const prachi = {
 
 AI-powered mental health monitoring web app with emotion detection, PHQ-9/GAD-7/PSS-10 assessments, and a Groq-powered chatbot.
 
-<div align="center">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=prachi109-pixel&repo=CalmSense&theme=nord&border_color=14B8A6&title_color=14B8A6&text_color=c9d1d9" />
-</div>
-
 | Layer | Technology |
 |---|---|
 | Backend | Python, Flask |
@@ -59,10 +55,6 @@ AI-powered mental health monitoring web app with emotion detection, PHQ-9/GAD-7/
 ### 😴 SleepyWhisper
 
 AI-powered sleep disorder prediction using Gradient Boosting & QDA, trained on 15,000+ records.
-
-<div align="center">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=prachi109-pixel&repo=SleepyWhisper&theme=nord&border_color=14B8A6&title_color=14B8A6&text_color=c9d1d9" />
-</div>
 
 | Layer | Technology |
 |---|---|
@@ -95,11 +87,6 @@ AI-powered sleep disorder prediction using Gradient Boosting & QDA, trained on 1
 ## 📊 GitHub Stats
 
 <div align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=prachi109-pixel&show_icons=true&theme=nord&border_color=14B8A6&title_color=14B8A6&icon_color=14B8A6&text_color=c9d1d9" height="165"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=prachi109-pixel&layout=compact&theme=nord&border_color=14B8A6&title_color=14B8A6&text_color=c9d1d9" height="165"/>
-</div>
-
-<div align="center">
 <img src="https://streak-stats.demolab.com?user=prachi109-pixel&theme=nord&border=14B8A6&ring=14B8A6&fire=14B8A6&currStreakLabel=14B8A6" />
 </div>
 
@@ -123,3 +110,5 @@ AI-powered sleep disorder prediction using Gradient Boosting & QDA, trained on 1
 </div>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d9488,100:14b8a6&height=120&section=footer" width="100%"/>
+
+
