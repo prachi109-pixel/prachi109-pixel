@@ -110,5 +110,3 @@ AI-powered sleep disorder prediction using Gradient Boosting & QDA, trained on 1
 </div>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d9488,100:14b8a6&height=120&section=footer" width="100%"/>
-
-
