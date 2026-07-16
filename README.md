@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d9488,100:14b8a6&height=220&section=header&text=Prachi%20Sinha&fontSize=50&fontColor=ffffff&animation=twinkling&fontAlignY=35&desc=Fresher%20%7C%20AI%2FML%20%26%20Python%20Developer&descAlignY=55&descSize=18" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d9488,100:14b8a6&height=220&section=header&text=Prachi&fontSize=50&fontColor=ffffff&animation=twinkling&fontAlignY=35&desc=Fresher%20%7C%20AI%2FML%20%26%20Python%20Developer&descAlignY=55&descSize=18" width="100%"/>
 
 <a href="https://github.com/prachi109-pixel">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=14B8A6&center=true&vCenter=true&width=600&lines=Python+%7C+AI%2FML+%7C+SQL;Building+CalmSense+-+AI+Mental+Health+App;Building+SleepyWhisper+-+Sleep+Disorder+Prediction;Open+to+Work+Opportunities" alt="Typing SVG" />
